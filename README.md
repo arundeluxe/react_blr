@@ -28,10 +28,23 @@ webpack-dev-server --progress --colors : Running webpack server (http://localhos
 
 Description and Ref Links :
 
-ReactJs :
+ReactJs : https://reactjs.org/
+
 ReactJS developed by Facebook is a JavaScript library for creating large application user interfaces having continuous data changes. React is basically the V in MVC.
 
+Webpack :https://webpack.js.org/concepts/ 
 
-https://reactjs.org/
+webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it recursively builds a dependency graph that includes every module your application needs, then packages all of those modules into one or more bundles.
 
-Webpack : https://webpack.js.org/concepts/ 
+Babel: https://babeljs.io/
+
+Babel compiles the ES6 (ES2015) code into ES5 code so that it can run in the all browsers.
+
+
+Webpack-dev-server :
+https://www.npmjs.com/package/webpack-dev-server
+Webpack with a development server that provides live reloading of project.
+
+ES6 (Es2015) - 
+https://www.tutorialspoint.com/es6/index.htm
+https://johnpapa.net/es5-es2015-typescript/
