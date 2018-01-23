@@ -26,7 +26,12 @@ npm install --save-dev babel-preset-react
 
 webpack-dev-server --progress --colors : Running webpack server (http://localhost:8080)
 
-Description :
+Description and Ref Links :
 
 ReactJs :
+ReactJS developed by Facebook is a JavaScript library for creating large application user interfaces having continuous data changes. React is basically the V in MVC.
+
+
 https://reactjs.org/
+
+Webpack : https://webpack.js.org/concepts/ 
